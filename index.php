@@ -10,7 +10,7 @@
 <body>
 
     <form action="calcularsalario.php" method="post">
-        <h1>Cálculo de Salário</h1>
+        <h1>Cálculo de salário</h1>
 
         <label>
             Digite as horas trabalhadas:
